@@ -99,6 +99,6 @@ Upon project completion, a comprehensive **Exploratory Data Analysis (EDA) repor
 
 - **Programming Language**: Python
 - **Data Handling**: Pandas, Numpy
-- **Data Visualization**: Power BI / Tableau, Seaborn, Matplotlib
-- **Database Management**: SQL (MySQL or PostgreSQL)
+- **Data Visualization**: Power BI, Seaborn, Matplotlib
+- **Database Management**: SQL 
 - **Version Control**: Git & GitHub
