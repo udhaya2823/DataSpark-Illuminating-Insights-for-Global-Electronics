@@ -50,8 +50,8 @@ By analyzing customer, product, sales, and store data, the key objectives are:
    - Create SQL tables for each data source.
    - Load preprocessed data using SQL `INSERT` statements for further analysis.
 
-### 3. **Power BI/Tableau Visualization:**
-   - Connect SQL database to Power BI/Tableau.
+### 3. **Power BI Visualization:**
+   - Connect SQL database to Power BI.
    - Develop interactive dashboards for visualizing key insights.
 
 ### 4. **SQL Queries:**
